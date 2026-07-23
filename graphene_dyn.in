@@ -1,4 +1,4 @@
 &INPUT
-filedyn = 'graphene_scf.dyn'
+filedyn = 'graphene_scf.dyn1'
 asr=crystal
 /
