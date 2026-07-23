@@ -32,4 +32,5 @@ ATOMIC_POSITIONS alat
   C    0.000000    0.0000000   0.000000
   C    0.000000    0.5773503   0.000000
 
-K_POINTS gamma
+K_POINTS automatic
+  9 9 1   0 0 0
